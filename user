@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",TV One
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Metro TV
+http://45.126.83.51/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Trans 7
+http://210.210.155.35/qwr9ew/s/s101/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Indosiar
+http://45.126.83.51/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Trans TV
+http://210.210.155.35/qwr9ew/s/s100/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",SCTV
+http://210.210.155.35/qwr9ew/s/s103/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Kompas TV
+http://210.210.155.35/qwr9ew/s/s104/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",RTV
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",MNC
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",DAII TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",TVRI
+http://id1.indostreamingtv.com/live/tvri/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",NET TV
+http://45.126.83.51/qwr9ew/s/s08/02.m3u8
+
+JAK TV
+
+#EXTINF:-1 tvg-logo="" group-title="Local TV",Rodja TV
+http://rr2.dens.tv/s/s14/index2.m3u8
